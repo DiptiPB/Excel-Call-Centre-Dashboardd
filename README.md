@@ -16,3 +16,5 @@ This project includes designing and developing a Call Centre Dashboard to displa
 - **Calls vs Revenue:** Higher call volume does not always lead to higher revenue, emphasizing call quality and efficiency.
 - **Gender Distribution:** Some locations have more female callers, enabling targeted customer engagement.
 - **Revenue Distribution:** Certain regions generate higher revenue, identifying high-value customer bases for strategic focus.
+
+The Call Centre Dashboard offers key insights into calls, agents, customers, and revenue, enabling better management, targeted engagement, improved service, and optimized revenue for data-driven growth.
