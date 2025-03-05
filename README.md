@@ -10,3 +10,9 @@ This project includes designing and developing a Call Centre Dashboard to displa
 - Track agent ratings and performance trends to identify top and low performers and Improve training and support based on those insights.
 - Evaluate revenue contribution of customer representatives across different locations.
   
+## Findings and Conclusion
+
+- **Call Volume Trends:** Peak periods vary across the week, aiding workforce optimization.
+- **Calls vs Revenue:** Higher call volume does not always lead to higher revenue, emphasizing call quality and efficiency.
+- **Gender Distribution:** Some locations have more female callers, enabling targeted customer engagement.
+- **Revenue Distribution:** Certain regions generate higher revenue, identifying high-value customer bases for strategic focus.
