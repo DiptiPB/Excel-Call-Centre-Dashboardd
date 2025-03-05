@@ -17,4 +17,4 @@ This project includes designing and developing a Call Centre Dashboard to displa
 - **Gender Distribution:** Some locations have more female callers, enabling targeted customer engagement.
 - **Revenue Distribution:** Certain regions generate higher revenue, identifying high-value customer bases for strategic focus.
 
-The Call Centre Dashboard offers key insights into calls, agents, customers, and revenue, enabling better management, targeted engagement, improved service, and optimized revenue for data-driven growth.
+These findings support data-driven decision-making, enabling improved resource management and revenue optimization.
